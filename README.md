@@ -26,5 +26,5 @@
 - [ ] [Coroutines](https://dabeaz.com/coroutines/)
 
 ## Hands-on
-- [x] Run MinIO locally
+- [x] Run [MinIO](https://min.io/) locally
 - [ ] Write Python script to download files and save into MinIO
