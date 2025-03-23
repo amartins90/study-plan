@@ -3,6 +3,9 @@
 ## Agents
 - [ ] [GenAI Essentials – Full Course for Beginners](https://www.youtube.com/watch?v=nJ25yl34Uqw&t=80479s)
 
+## Distributed Systems
+- [ ] [MIT 6.824 Distributed Systems](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
+
 ## ETL
 - Apache Beam
     - [ ] [What I’ve learned trying to recreate Apache Beam](https://conalldalydev.medium.com/what-ive-learned-trying-to-recreate-apache-beam-4a95a9f4ba6d)
